@@ -8,13 +8,12 @@ body{
     background-color: #222;
 }
 .card{
-
     width: 420px;
     height: 650px;
     max-width: 470px;
     background: linear-gradient(135deg,#00feba,#5b548a);
     color: #fff;
-    margin-left: 35vw;
+    margin-left: 413px;
     margin-top: 80px;
     border-radius: 20px;
     padding: 40px,35px;
@@ -42,8 +41,9 @@ body{
     margin-right: 16px;
     margin-top: 24px;
     font-size: 18px;
-}
+    
 
+}
 .search button{
     border: 0;
     outline: 0;
@@ -57,7 +57,6 @@ body{
 }
 .search button img{ 
     width: 16px;
-    margin: 21px 21px;
     
 }
 .wheather-icon{
